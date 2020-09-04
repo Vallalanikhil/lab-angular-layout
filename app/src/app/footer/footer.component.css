@@ -1,0 +1,18 @@
+/* .footer {
+  position: absolute;
+  top: 400px;
+  margin-left:6px;
+  font-size: 30px;
+  color: white;
+  background: orangered;
+  padding: 0.5em;
+} */
+.footer {
+  position: absolute;
+  top: 500px;
+  margin-left: 6px;
+  font-size: 25px;
+  color: white;
+  background: orangered;
+
+}
